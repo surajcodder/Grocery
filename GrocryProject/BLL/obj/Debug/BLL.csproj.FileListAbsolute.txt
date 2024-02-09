@@ -1,0 +1,9 @@
+C:\Users\Priya\source\repos\GrocryProject\BLL\bin\Debug\BLL.dll
+C:\Users\Priya\source\repos\GrocryProject\BLL\bin\Debug\BLL.pdb
+C:\Users\Priya\source\repos\GrocryProject\BLL\bin\Debug\DAL.dll
+C:\Users\Priya\source\repos\GrocryProject\BLL\bin\Debug\DAL.pdb
+C:\Users\Priya\source\repos\GrocryProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Priya\source\repos\GrocryProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Priya\source\repos\GrocryProject\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Priya\source\repos\GrocryProject\BLL\obj\Debug\BLL.dll
+C:\Users\Priya\source\repos\GrocryProject\BLL\obj\Debug\BLL.pdb
